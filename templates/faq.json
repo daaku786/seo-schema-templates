@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a water heater replacement cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most tank replacements cost between $1,200 and $2,000 including installation. Tankless units cost more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency plumbing service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We answer emergency calls 24 hours a day, 7 days a week across Austin."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://www.example.com/blog/example-post/#article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.example.com/blog/example-post/"
+  },
+  "headline": "How to Choose a Water Heater for Your Home",
+  "description": "A plain guide to tank vs tankless water heaters, sizes and running costs.",
+  "image": [
+    "https://www.example.com/images/water-heater-1x1.jpg",
+    "https://www.example.com/images/water-heater-4x3.jpg",
+    "https://www.example.com/images/water-heater-16x9.jpg"
+  ],
+  "datePublished": "2026-01-15T09:00:00+00:00",
+  "dateModified": "2026-03-02T10:30:00+00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Jane Doe",
+    "url": "https://www.example.com/about/jane-doe/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Example Plumbing Co",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.example.com/images/logo.png"
+    }
+  }
+}
